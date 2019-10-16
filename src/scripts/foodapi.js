@@ -33,7 +33,7 @@
 
 const foodFactory = (obj) => {
     return `
-    <div class=>
+    <div class="food-item">
     <h1>${obj.name}</h1>
     <p>${obj.category}</p>
     <p>${obj.ethnicity}</p>
